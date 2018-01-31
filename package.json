@@ -1,0 +1,14 @@
+{
+  "name": "itea_node_1",
+  "version": "1.0.0",
+  "description": "itea_1st_hometask",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MMV",
+  "license": "ISC",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
